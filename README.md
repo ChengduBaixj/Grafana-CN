@@ -1,1 +1,1 @@
-# Grafana-CN
+# Grafana 翻译
